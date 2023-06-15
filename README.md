@@ -1,4 +1,4 @@
-# Convolution-Neural-Network
+# Convolutional-Neural-Network
 Convolutional Neural Networks (CNNs) are a class of deep neural networks designed for processing and analyzing visual data, such as images. They have achieved remarkable success in various computer vision tasks, including image classification, object detection, and image segmentation. CNNs are composed of multiple layers, each serving a specific purpose in extracting hierarchical features from the input data.
 
 ## Convolution Operation:
